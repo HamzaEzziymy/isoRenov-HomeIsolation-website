@@ -1,0 +1,48 @@
+.f-container{
+    justify-content: space-between;
+    box-shadow: 0px -2px 20px -2px rgba(58, 111, 203, 0.5);
+    position: absolute;
+    height: 200px;
+    margin-top: 100px;
+}
+.f-left{
+    gap: 1rem;
+}
+.f-menu{
+    gap: 2rem;
+    font-size: xx-large;
+    margin-top: 1.5rem;
+    font-weight: 500;
+}
+.f-menu>.face{
+    color: blue;
+}
+.f-menu>.insta{
+    color: rgb(218, 15, 62);
+}
+.f-menu>.linked{
+    color: rgb(0, 0, 158);
+}
+.f-menu>.yout{
+    color: rgb(255, 0, 0);
+}
+.f-menu>span>a>:hover{
+    transition: 300ms;
+    transform: translateY(-5px);
+}
+
+.logo-text{
+    color: #e72027;
+}
+@media (max-width: 768px) {
+    .f-container{
+        justify-content: center;
+    }
+    .f-container>div{
+        align-items: center!important;
+        text-align: center;
+    }
+    .f-right{
+        justify-content: center;
+    }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Isolation des combles",
+    "price": "47,043",
+    "detail": "Améliorez considérablement votre confort thermique en isolant vos combles perdus ou aménagés avec la mousse polyuréthane. Vous réduirez vos factures d'énergie et profiterez d'un espace plus sain et plus agréable à vivre.",
+    "image": "./Isolation-des-combles.jpg"
+  },
+  {
+    "name": "Isolation des murs",
+    "price": "66,353",
+    "detail": "Optimisez l'isolation de vos murs intérieurs ou extérieurs pour éliminer les ponts thermiques et créer un environnement plus confortable en toutes saisons. La mousse polyuréthane s'adapte à tous types de murs, y compris les ossatures bois, les parpaings et les briques.",
+    "image": "./Isolation-des-murs.jpg"
+  },
+  {
+    "name": "Isolation du sous-sol",
+    "price": "35,853",
+    "detail": "Dites adieu à l'humidité et à la moisissure dans votre sous-sol grâce à l'isolation à la mousse polyuréthane. Cette solution étanche et performante vous permettra de créer un espace sain et sec, idéal pour une utilisation habitable ou pour le stockage.",
+    "image": "./Isolation-du-sous-sol.jpg"
+  },
+  {
+    "name": "Isolation des planchers",
+    "price": "47,043",
+    "detail": "Éliminez les sensations de froid et améliorez le confort acoustique de votre sol en optant pour l'isolation à la mousse polyuréthane. Cette technique s'adapte à tous types de planchers, en bois, en béton ou flottants.",
+    "image": "./Isolation-des-planchers.jpg"
+  },
+  {
+    "name": "Isolation des portes et fenêtres",
+    "price": "66,353",
+    "detail": "Réduisez les déperditions thermiques et les courants d'air autour de vos portes et fenêtres grâce à l'isolation à la mousse polyuréthane. Vous gagnerez en confort thermique et réduirez vos factures d'énergie.",
+    "image": "./Isolation-des-portes-et-fenêtres.jpg"
+  }
+]

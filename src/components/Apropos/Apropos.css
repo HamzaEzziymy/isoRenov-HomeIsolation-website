@@ -1,0 +1,58 @@
+.c-wrapper{
+  margin: 50px;
+}
+.c-container {
+  justify-content: space-between;
+}
+.c-container > div {
+  flex: 1;
+}
+.c-right {
+  width: 100%;
+}
+
+
+.c-left {
+  gap: 0.5rem;
+  width: 100%;
+}
+
+.title-apropos{
+  display: flex;
+  justify-content: space-between;
+}
+/* .redText{ */
+  /* width: 30%; */
+/* } */
+.horizontal-line{
+  width: 400px;
+  margin-left: 15px;
+  margin-top: 20px;
+  height: 2px;
+  background-color: blue;
+}
+
+.apropos-text{
+  margin-left: 20px;
+}
+
+
+@media (max-width: 1000px) {
+  .c-container {
+    flex-direction: column;
+  }
+  .c-right {
+    display: flex;
+    justify-content: center;
+  }
+  .c-left{
+    display: flex;
+    justify-content: center;
+  }
+  .apropos-text{
+    font-size: small;
+  }
+  .horizontal-line{
+    width: 50px;
+  }
+}
